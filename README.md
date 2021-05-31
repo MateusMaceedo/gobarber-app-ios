@@ -1,4 +1,4 @@
-## IOS Pesso Fisica
+## IOS Pessoa Fisica
 
 App desenvolvido afim de gerar acertividade na contratacao de clientes PF.
 
